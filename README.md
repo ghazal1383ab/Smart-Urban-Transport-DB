@@ -87,3 +87,7 @@ This file contains:
 - Reservation & payment handling  
 - Intelligent reporting and analysis
 
+<p align="center">
+  <img width="600" height="350" alt="ERD" src="https://github.com/user-attachments/assets/f737cfc5-ec33-42f4-945c-f01b520db613" />
+</p>
+
